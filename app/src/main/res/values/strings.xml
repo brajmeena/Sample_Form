@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sample Form</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">First Name</string>
+    <string name="email_id">Email-ID</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="submit_button">Submit</string>
+    <string name="error">something wrong</string>
+    <string name="fullname">Fullname</string>
+    <string name="out_email">Your Email</string>
+    <string name="out_mob">Your Mob No</string>
+    <string name="hint_fname">enter your first name</string>
+    <string name="hint_lname">enter your last name</string>
+    <string name="hint_email">enter your email address</string>
+    <string name="hint_mob">enter your mobile number</string>
+
+</resources>
